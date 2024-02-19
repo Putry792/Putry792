@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Perkenalkan nama saya **Putri Nur Fadillah**
+Saya seorang **Mahasiswa Teknologi Informasi** di **Politeknik Negeri Ketpaang**
+
 <!--
 **Putry792/Putry792** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
