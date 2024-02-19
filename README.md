@@ -1,8 +1,14 @@
-### Hi there 👋
+### Hi I'm Putry 👋
 
-Perkenalkan nama saya **Putri Nur Fadillah**<br>
 Saya seorang **Mahasiswa Teknologi Informasi** di **Politeknik Negeri Ketapang**
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/Putry792">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Putry792&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Putry792&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
 <!--
 **Putry792/Putry792** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
